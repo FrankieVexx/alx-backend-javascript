@@ -1,0 +1,1 @@
+This repository contains tasks related to ES6 basics
