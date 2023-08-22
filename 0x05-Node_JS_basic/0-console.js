@@ -1,8 +1,10 @@
 /**
  * 
  * a function that displays a message 
+ * @param {string} msg - the message to display
  */
-function displayMessage(message) {
-    console.log(message);
-}
+const displayMessage = (msg) => {
+    console.log(msg);
+  };
+
 module.exports = displayMessage;
