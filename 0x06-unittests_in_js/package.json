@@ -1,0 +1,16 @@
+
+{
+  "name": "unittests-in-js",
+  "version": "1.0.0",
+  "description": "Creating and running unittests in JavaScript",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Francis Onyach",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^10.2.0",
+    "chai": "^4.3.7"
+  }
+}
+
